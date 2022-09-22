@@ -1,0 +1,10 @@
+numpy
+sklearn
+joblib
+Cython
+networkx
+scipy
+numba
+llvmlite
+setuptools
+decorator
